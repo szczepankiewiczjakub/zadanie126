@@ -1,2 +1,4 @@
-master: linia 1
+featureA: zmodyfikowana linia 1
 master: linia 2
+featureA: linia 3
+
