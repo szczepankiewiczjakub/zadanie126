@@ -1,0 +1,2 @@
+master: linia 1
+master: linia 2
